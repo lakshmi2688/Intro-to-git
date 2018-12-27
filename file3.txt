@@ -1,0 +1,4 @@
+Here's the file3.txt
+
+Added line 3
+Added line 4
